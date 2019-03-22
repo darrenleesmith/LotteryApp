@@ -1,0 +1,2 @@
+# LotteryApp
+Random Number Generator
